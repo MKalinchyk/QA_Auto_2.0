@@ -1,0 +1,3 @@
+C:\Users\Gadget Hackwrench\QA_Auto_2.0\tests\api\test_api_fict.py
+
+python -m pytest -m http -s
